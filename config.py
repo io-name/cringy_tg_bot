@@ -1,0 +1,3 @@
+
+TOKEN = "6219595656:AAF2oi98zJPGm5yrwKlcd5XaM9qV2npnYMA"
+QUOTE_MARK = "(c)"
